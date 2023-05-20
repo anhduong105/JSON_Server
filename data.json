@@ -1,0 +1,34 @@
+{
+    "data": [
+        {
+            "mssv": "20020005",
+            "name": "Do Thi G",
+            "birthday": "01/05/2002",
+            "address": "Hải Dương"
+        },
+        {
+            "mssv": "20020006",
+            "name": "Pham Huy H",
+            "birthday": "01/06/2002",
+            "address": "Thái Bình"
+        },
+        {
+            "mssv": "20020007",
+            "name": "Pham Van K",
+            "birthday": "01/07/2002",
+            "address": "Hà Nội"
+        },
+        {
+            "mssv": "20020008",
+            "name": "Nguyễn Đức Long",
+            "birthday": "01/08/2002",
+            "address": "Yên Bái"
+        },
+        {
+            "mssv": "20020274",
+            "name": "Đỗ Thị Ánh Dương",
+            "birthday": "10/05/2002",
+            "address": "Hà Nội"
+        }
+    ]
+}
